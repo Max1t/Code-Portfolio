@@ -4,7 +4,7 @@
 
 Code Examples: 
 
-![dodomenu](https://user-images.githubusercontent.com/36257728/212485561-6c6a4428-1066-4953-9aa9-2bbaba06b5d3.png =100x)
+![dodomenu](https://user-images.githubusercontent.com/36257728/212485561-6c6a4428-1066-4953-9aa9-2bbaba06b5d3.png | width=100)
 
 ![dodomp](https://user-images.githubusercontent.com/36257728/212485555-08d42857-ffc9-4a77-8ed5-8129c51c34d8.png)
 
