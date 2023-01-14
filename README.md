@@ -9,13 +9,13 @@ Code Examples:
 ![dodomp](https://user-images.githubusercontent.com/36257728/212485555-08d42857-ffc9-4a77-8ed5-8129c51c34d8.png)
 
 
-Airship Match 3
+[Airship Match 3](https://github.com/Max1t/Code-Portfolio/tree/main/Code%20Examples/AirshipMatch3Game)
 
 Code Examples: 
 
 ![airship](https://user-images.githubusercontent.com/36257728/212485569-740dc8e9-c327-4d54-8604-c650c876b049.png)
 
-Dibs Parcel
+[Dibs Parcel](https://github.com/Max1t/Code-Portfolio/tree/main/Code%20Examples/ParcelGame)
 
 Code Examples: 
 
